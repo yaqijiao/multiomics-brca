@@ -1,0 +1,9 @@
+# 忽略原始数据和中间文件
+data/
+results/
+plots/
+
+# Jupyter / R temp files
+.ipynb_checkpoints/
+.Rhistory
+.Rproj.user
